@@ -13,7 +13,7 @@ def divide(n):
 def divide(n: int) -> float:
     return n / 2
 ```  
-w/ the mypy type checker extension it solves tiny bugss and gives autocomplete!!!!!
+w/ the mypy type checker extension it solves tiny bugss and gives autocomplete!!!!!  
 **#region stuff**  
 ```py
 # region
